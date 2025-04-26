@@ -9,7 +9,7 @@ Explore this **Amazon Power BI Dashboard** designed to provide actionable insigh
 View Data-
 <a href="https://github.com/Student-NitinRaj/Power-Bi/blob/main/global_superstore.xlsx"> </a>
 With **interactive data visualizations**, businesses can optimize strategies and improve decision-making.
-
+<img src"https://github.com/Student-NitinRaj/Power-Bi/blob/main/Screenshot%202025-03-29%20222014.png">
 ## 🔹 Key Insights from the Dashboard:
 - **Sales Projection:** $2.26M 📈  
 - **Total Product Units Sold:** 3,022 🛒  
